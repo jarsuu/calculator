@@ -9,6 +9,7 @@ A simple calculator for basic operations.
 ```cd calculator```
 
 4. Start the Live Server:
+
 Once the server is running, open your web browser and navigate to the provided localhost address.
 
 # Usage
